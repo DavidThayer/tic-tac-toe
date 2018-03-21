@@ -1,8 +1,22 @@
+
 #board {
   margin-top: 10px;
+  margin: 0 auto;
 }
 
 .box {
   border: 1px solid black;
   height: 150px;
+  background-color: #ffffff;
+  font-size: 80px;
+  text-center;
+}
+
+body {
+  background-color: #83D0F2;
+
+}
+.btn-primary {
+  margin: 20px 0px;
+
 }
